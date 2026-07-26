@@ -19,6 +19,6 @@ Changing the music via the UI is not yet supported, so if you'd like to change i
 
 On the airdancer directory containing the `pom.xml`, you can run the app from commandline using Maven:
 ```bash
-mvn clean javafx:run
+$ mvn clean javafx:run
 ```
 
