@@ -3,7 +3,9 @@ An “air dancer” is a human-shaped balloon that looks like it's dancing when 
 
 ## Run the app using runtime image
 ```
-$ target/airdancer/bin/launcher
+$ unzip -d airdancer <destination>
+$ cd <destination>
+$ airdancer/bin/launcher
 ```
 
 ## Change the music
