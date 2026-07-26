@@ -1,7 +1,8 @@
 # airdancer
 An “air dancer” is a human-shaped balloon that looks like it's dancing when air is pumped into it, but this app has absolutely nothing to do with that :\)
 
-Ten bars are moving in sync with the cozy music of ArcherSound.
+This app is a kind of audio visualizer. Ten bars move in sync with the cozy music of ArcherSound.
+
 At 30 frames per second, the sound spectrum is to be analyzed at ten points across the range of 0 to 1024 Hz. The amplitude at each Hz is reflected as an acceleration of the corresponding bar.
 
 ## Run the app using runtime image
