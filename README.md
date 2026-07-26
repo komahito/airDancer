@@ -7,7 +7,7 @@ $ target/airdancer/bin/launcher
 ```
 
 ## Change the music
-This app has not supported changing the music yet, so if you'd like to change it, please clone the [repository]() to your environment and then follow the steps below.
+This app has not supported changing the music yet, so if you'd like to change it, please clone the [repository](https://github.com/komahito/airDancer.git) to your environment and then follow the steps below.
 1. Put any wav file to directly under the sounds directory `airdancer/src/main/resources/assets/sounds/.`
 2. Edit the path in `fileNameWav` variable defined in `CalcSpecComponent.java` file. 
 
